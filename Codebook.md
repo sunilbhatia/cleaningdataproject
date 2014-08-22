@@ -40,7 +40,7 @@
 #### Step 2 - Extracts only the measurements on the mean and standard deviation for each measurement.
   * Extract the mean and std columns from **activity_labels.txt** feature name column using a regular expression
   * Add the Subject and Activity column to the list
-  * <font color='green'>Subset the 81 columns in the list from the merged dataset in step2. Now we have only the 81 coumns we need.</font>
+  * <font color='green'>Subset the 81 columns in the list from the merged dataset in step1. Now we have only the 81 coumns we need.</font>
   
 #### Step 3 - Uses descriptive activity names to name the activities in the data set
   * Follow the variable naming conventions from the class to rename the feature variables
