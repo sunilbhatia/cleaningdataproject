@@ -9,8 +9,8 @@ Getting and Cleaning Data Course Project
   5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
     
 #### Project Artifacts
-  * **./YYYYMMDD_data.zip**  - the downloaded data file from the data source above
-  * **./data**             - the unzipped downloaded data with all the data above
+  * **./YYYYMMDD_data.zip**  - the downloaded data file from the data source 
+  * **./data**             - the unzipped downloaded data with all the data
   * **./README.md**          - this document. The project documentation.
   * **./Codebook.md**        - the project recipe, codebook, and process to reproduce the results
   * **./run_analysis.R**     - the script that takes the data as input and generates the expected result.
