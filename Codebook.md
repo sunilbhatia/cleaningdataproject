@@ -62,7 +62,7 @@
     - **Subject**: The subject numeric value - One of 30 subjects being studied
     - **Activity**: The activity numeric value - One of six activities being studied
     - **MeasuredVariable**: The name of feature variable - One of 79 features being studied
-    - **MeasuredVariableMean**: The average of ever 79 features in the original data, represented as numeric value.
+    - **MeasuredVariableMean**: The average of every feature - 79 features in the original data, represented as numeric value.
   * Each row in the tidy data is permutation of(Subject, Activity, Feature), followwd by the Feature Average
   * <font color='green'>Since there are 30 Subjects, 6 Activities, and 79 Feature Variables, the final tidy dataset should have **4 columns, and 14220 rows**.</font>
 
