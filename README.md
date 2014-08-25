@@ -14,7 +14,7 @@ Getting and Cleaning Data Course Project
   * **./README.md**          - this document. The project documentation.
   * **./Codebook.md**        - the project recipe, codebook, and process to reproduce the results
   * **./run_analysis.R**     - the script that takes the data as input and generates the expected result.
-  * **./tidy_data.txt        - The tidy dataset exported as comma delimited file.
+  * **./tidy_data.txt**        - The tidy dataset exported as comma delimited file.
   
 #### How use this project
   * Read this document(**README.md**) thoroughly
